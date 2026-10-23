@@ -1,0 +1,10 @@
+{
+  "id": "c03",
+  "slug": "long-video-clipper",
+  "name": "长视频一键切爆点",
+  "version": "1.5.6-campfire.1",
+  "repo": "campfire-code/long-video-clipper",
+  "license": "MIT",
+  "delivery": "mirror",
+  "upstream": { "repo": "zhouxiaoka/autoclip", "license": "MIT", "tag": "v1.5.6" }
+}
